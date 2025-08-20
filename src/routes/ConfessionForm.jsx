@@ -64,7 +64,7 @@ export default function ConfessionForm() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2>Enviar confesión 💖</h2>
+      <h2>Enviar confesión </h2>
 
       <label>Destinatario:</label>
       <select
