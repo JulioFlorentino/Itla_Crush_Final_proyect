@@ -117,9 +117,7 @@ src/
 
 - En la **home**, el usuario ve una bienvenida con un diseño atractivo.
 - Puede `Registrarse` (ingresando usuario, email, contraseña) o `Iniciar Sesión` (incluso con Google).
-- Luego ingresa al **Dashboard**, que contiene:
-  - Un **sidebar** para navegar entre “Confesiones Enviadas” y “Recibidas”.
-  - Un formulario para enviar una nueva confesión (pública o privada, con destinatario seleccionado o manual).
+- Un formulario para enviar una nueva confesión (pública o privada, con destinatario seleccionado o manual).
 - Todas las confesiones se almacenan en Firestore y se actualizan en tiempo real en el Dashboard.
 
 ---
@@ -137,7 +135,7 @@ src/
 
 - Implementar filtros y búsqueda en los mensajes.
 - Agregar perfil de usuario con avatar.
-- Permitir eliminación o edición de confesiones.
+- Permitir edición de confesiones.
 - Agregar notificaciones al usuario cuando reciba una confesión.
 
 ---
