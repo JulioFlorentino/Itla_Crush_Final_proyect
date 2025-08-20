@@ -1,10 +1,18 @@
 # ITLA Crush – Proyecto Final
 
-**Página desplegada:** [https://julioflorentino.github.io/Itla_Crush_Final_proyect/#/]
+## 🌐 Página desplegada
+
+Aquí podrás acceder a la versión en línea del proyecto:  
+🔗 **[Demo del proyecto](https://julioflorentino.github.io/Itla_Crush_Final_proyect/#/)**
 
 Una aplicación web para compartir confesiones públicas o privadas entre usuarios de ITLA. Está desarrollada con **React (Vite)**, **Firebase (Auth + Firestore)** y estilos personalizados.
 
 ---
+
+[![GitHub repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/JulioFlorentino/Itla_Crush_Final_proyect)  
+[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev/)  
+[![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)](https://firebase.google.com/)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Índice
 
