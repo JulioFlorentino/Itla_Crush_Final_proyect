@@ -67,11 +67,7 @@ const ConfessionList = () => {
                     ? confession.authorUsername || "Usuario desconocido"
                     : "Confesión anónima"}
                 </span>
-                <span className="confession-date">
-                  {confession.createdAt?.toDate
-                    ? confession.createdAt.toDate().toLocaleString()
-                    : "Fecha desconocida"}
-                </span>
+
                 {currentUser && confession.authorId === currentUser.uid && (
                   <button
                     className="delete-confession-btn"
