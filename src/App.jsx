@@ -10,6 +10,8 @@ import Login from "./routes/Auth/Login";
 import Signup from "./routes/Auth/Signup";
 import ConfessionForm from "./routes/ConfessionForm";
 
+const repoName = "/Itla_Crush_Final_proyect";
+
 export default function App() {
   return (
     <>
